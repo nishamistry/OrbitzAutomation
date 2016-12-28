@@ -1,0 +1,18 @@
+#TripDetailsPageLocators	
+#TripDetailsPageLocators	
+prodinfo.loc={\"locator\":\"css=.productInfo\",\"desc\":\"Product info \"}
+prodinfo.loc={\"locator\":\"css=.productInfo\",\"desc\":\"Product info \"}
+continue.btn.loc={\"locator\":\"css=input[name*=_eventId_checkout]\",\"desc\":\"Continue button \"}
+continue.btn.loc={\"locator\":\"css=input[name*=_eventId_checkout]\",\"desc\":\"Continue button \"}
+see.different.flights={\"locator\":\"css=.resultsLink\",\"desc\":\"See different flights\"}
+see.different.flights={\"locator\":\"css=.resultsLink\",\"desc\":\"See different flights\"}
+flight.from.label.tripdetailspage.loc={\"locator\":\"css=div.productInfo abbr:nth-of-type(1)\",\"desc\":\"Flight From start city\"}
+flight.to.label.tripdetailspage.loc={\"locator\":\"css=div.productInfo abbr:nth-of-type(2)\",\"desc\":\"Flight To destination city\"}
+	
+#Booking Flow Page
+	
+#Booking Flow Page
+flight.booking.page.title={\"locator\":\"css=h1\",\"desc\":\"Page Title of Booking Flow Page\"}
+flight.booking.page.title={\"locator\":\"css=h1\",\"desc\":\"Page Title of Booking Flow Page\"}
+flight.travelerinfo.page.continue.btn={\"locator\":\"css=*[value*=Continue]\",\"desc\":\"Continue button in Traveler Info  Page\"}
+flight.travelerinfo.page.continue.btn={\"locator\":\"css=*[value*=Continue]\",\"desc\":\"Continue button in Traveler Info  Page\"}

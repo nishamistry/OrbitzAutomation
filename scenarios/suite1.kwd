@@ -1,0 +1,21 @@
+
+SCENARIO|verifySearchResultCardPageAndSearchResultCard|{'desc':'Verify Result Card and Search ResultPage content';'groups':['search']}
+Navigate to search flight page|[]|
+searchFlight|[{'tripType':'oneWay';'from':'San Francisco';'to':'LGA';'leaveDate':'3';'returnDate':'10'}]|
+verify Result Card at given index|["1.0"]|
+selectResultCard|[1]|
+verify Trip Details Result Page|["test.flight.oneway"]|
+END||
+SCENARIO|Search flight|{'desc':'Search flight with test data';'groups':['search'];'key':'test.datadriven.flight'}
+Navigate to search flight page||
+searchFlight|["${args[0]}"]|
+verify Result Card at given index|["${resultIndex}"]|
+selectResultCard|["${resultIndex}"]|
+verify Trip Details Result Page|["${args[0]}"]|
+bookFlight|[]|
+END||
+SCENARIO|Verify Error Messages|{'desc':'Verify Error messages on blank flight search from submit';'groups':['search']}
+Navigate to search flight page|[]|
+searchFlight|["test.flight.invalid"]|
+verifyErrorMessagesOnBlankSearchForm|[]|
+END||

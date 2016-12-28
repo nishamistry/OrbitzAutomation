@@ -1,0 +1,47 @@
+<testdata>
+	<test>
+		<flight>
+			<oneway>
+				<tripType>One-way</tripType>
+				<from>SFO</from>
+				<to>LGA</to>
+				<numAdult>1</numAdult>
+				<leaveDate>1</leaveDate>
+			</oneway>
+		</flight>
+		<flight>
+			<invalid>
+				<tripType>Round-trip</tripType>
+				<from></from>
+				<to></to>
+				<numAdult>1</numAdult>
+				<leaveDate>1</leaveDate>
+			</invalid>
+		</flight>
+		<datadriven>
+			<flight>
+				<tripType>One-way</tripType>
+				<from>LGA</from>
+				<to>SFO</to>
+				<numAdult>1</numAdult>
+				<leaveDate>1</leaveDate>
+				<returnDate>10</returnDate>
+				<tcID>101</tcID>
+				<resultIndex>1</resultIndex>
+				<recID>One Way Trip</recID>
+			</flight>
+			<flight>
+				<tripType>One-way</tripType>
+				<from>SFO</from>
+				<to>LGA</to>
+				<leaveDate>1</leaveDate>
+				<returnDate>10</returnDate>
+				<numAdult>2</numAdult>
+				<tcID>102</tcID>
+				<resultIndex>1</resultIndex>
+				<recID>Round Trip</recID>
+			</flight>
+
+		</datadriven>
+	</test>
+</testdata>

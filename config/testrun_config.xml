@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="QAS Orbitz demo" verbose="0">
+	<parameter name="selenium.defaultBrowser" value="firefoxDriver"></parameter>
+
+	<test name="OrbitzDemo Test For Web" enabled="true">
+		<parameter name="target.platform" value="web"></parameter>
+		<classes>
+			<class name="com.ispl.automation.sample.test.orbitz.OrbitzWebTest">
+			</class>
+		</classes>
+	</test>
+</suite>

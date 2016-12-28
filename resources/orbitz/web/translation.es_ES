@@ -1,0 +1,14 @@
+#Environment properties
+env.baseurl=http://www.orbitz.com/es/
+step.provider.pkg=com.ispl.automation.sample.orbitz.web;com.ispl.automation.sample.orbitz.common
+
+#Home Template Menu-Items
+hotels.value=Hoteles
+flights.value=Vuelos
+autos.value=Autos
+
+flight.search.form.blank.from.error.msg=No nos has dicho desde dónde deseas comenzar el vuelo. Por favor, introduce el nombre de una ciudad o el código de un aeropuerto.
+flight.search.form.blank.to.error.msg=No nos has dicho tu destino. Por favor, introduce el nombre de una ciudad o el código de un aeropuerto.
+
+flight.customize.trip.page.title=Personaliza tu viaje a
+flight.trip.traveler.info.page.title=RESERVAR - Información del viajero

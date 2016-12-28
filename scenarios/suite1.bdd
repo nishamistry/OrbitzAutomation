@@ -1,0 +1,37 @@
+#Narrative: Searching and booking Flight
+#As a customer
+#I want to search the flight
+#So that i can select and book appropriate one.  
+
+
+Scenario: Verify Search ResultCard
+Meta-data : {"desc": "Verify Result Card and Search ResultPage content"; _&
+			"groups": ["search"] _&
+			}
+	Given Navigate to search flight page
+	When Search flight with: test.flight.oneway
+	Then Select result with index '1'
+	And Verify Trip Details Result Page for trip 'test.flight.oneway'
+End
+
+Scenario: Verify FlightInfo Page
+Meta-data : {"desc": "Verify Result Card and Search ResultPage content"; _&
+			"groups": ["search"]; _&
+			"key": "test.datadriven.flight" _&
+			}
+	Given Navigate to search flight page
+	When Search flight with: '${args[0]}'
+	Then Select result with index '1'
+	Then Verify Trip Details Result Page for trip '${args[0]}'
+	Then Complete booking
+End 
+
+Scenario: Book Flight Flow
+Meta-data : {"desc": "Verify Result Card and Search ResultPage content"; _&
+			"groups": ["search"] _&
+			}
+	Given Navigate to search flight page
+	When Search flight with: test.flight.oneway
+	Then Select result with index '1'
+	Then Complete booking
+End

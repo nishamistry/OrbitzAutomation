@@ -1,0 +1,22 @@
+#COMMON
+process.indicator.loc={\"locator\":\"css=div.progressIndicator\",\"desc\":\"Process indicator\"}
+		
+#FlightSearchPagePageLocators
+trip.type.opt.loc={\"locator\":\"css=.group.airTypes\",\"desc\":\" Trip type check box\"}
+from.txt.loc={\"locator\":\"css=[name$='leaveSlice.orig.key']\",\"desc\":\" Starting location input box\"}
+include.from80.chk.loc={\"locator\":\"css=[name$='leaveSlice.originRadius']\",\"desc\":\"Include airports within 80 miles check box\"}
+to.txt.loc={\"locator\":\"css=[name$='leaveSlice.dest.key']\",\"desc\":\"Destination location text field \"}
+
+include.to80.chk.loc={\"locator\":\"css=[name$='leaveSlice.destinationRadius']\",\"desc\":\"Include airports within 80 miles for destination check box \"}
+
+leave.day={\"locator\":\"css=[name$='leaveSlice.date']\",\"desc\":\"Starting date fields\"}
+cal.body={\"locator\":\"css=.calendar\",\"desc\":\"Calendar body\"}
+return.day={\"locator\":\"css=[name$='returnSlice.date']\",\"desc\":\" Return date fields\"}
+include.3day.flexi.search={\"locator\":\"css=[name$='flexAirSearch']\",\"desc\":\"3 Day flexi search check box\"}
+select.leave.time={\"locator\":\"css=[name$='leaveSlice.time']\",\"desc\":\"Leave time select box \"}
+select.return.time={\"locator\":\"css=[name$='returnSlice.time']\",\"desc\":\"Return time select box \"}
+select.adult.num={\"locator\":\"css=[name$='numAdult']\",\"desc\":\"Num of Adults select box \"}
+select.senior.num={\"locator\":\"css=[name$='numSenior']\",\"desc\":\" Num of Senior select box\"}
+select.child.num={\"locator\":\"css=[name$='numChild']\",\"desc\":\"Num of Children Select box \"}
+select.child.age1={\"locator\":\"css=[name$='child[0]']\",\"desc\":\"Child age 1 select box\"}
+select.child.age2={\"locator\":\"css=[name$='child[1]']\",\"desc\":\"Child age 2 select box \"}

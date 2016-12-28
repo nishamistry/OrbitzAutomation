@@ -1,0 +1,2 @@
+startDate.cal.icon={\"locator\":\"css=.startDate .calIcon img\",\"desc\":\"Start date calendar icon\"}
+endDate.cal.icon={\"locator\":\"css=.endDate .calIcon img\",\"desc\":\"End date calendar icon\"}

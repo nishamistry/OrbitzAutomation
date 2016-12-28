@@ -1,0 +1,39 @@
+#FlightSearchResultsPageLocators
+#FlightSearchResultsPageLocators
+result.summary.loc={\"locator\":\"css=.airResultsSummaryMod\",\"desc\":\"Search result summary\"}
+result.summary.loc={\"locator\":\"css=.airResultsSummaryMod\",\"desc\":\"Search result summary\"}
+result.card.loc={\"locator\":\"css=.airResultsCard\",\"desc\":\"Resultcard \"}
+result.card.loc={\"locator\":\"css=.airResultsCard\",\"desc\":\"Resultcard \"}
+flt.price.loc={\"locator\":\"css=.price\",\"desc\":\"Flight price \"}
+flt.price.loc={\"locator\":\"css=.price\",\"desc\":\"Flight price \"}
+flt.dept.loc=css=.info.departure
+flt.dept.loc=css=.info.departure
+dept.time.loc={\"locator\":\"css=.info.departure span.heading\",\"desc\":\"Flight result departure time \"}
+dept.time.loc={\"locator\":\"css=.info.departure span.heading\",\"desc\":\"Flight result departure time \"}
+dept.city.loc={\"locator\":\"css=.info.departure span.sliceCity\",\"desc\":\"Filght result departure city \"}
+dept.city.loc={\"locator\":\"css=.info.departure span.sliceCity\",\"desc\":\"Filght result departure city \"}
+flt.dept.aircode.loc={\"locator\":\"css=.info.departure span[class*=airportCode]\",\"desc\":\"Flight result departure aircode \"}
+flt.dept.aircode.loc={\"locator\":\"css=.info.departure span[class*=airportCode]\",\"desc\":\"Flight result departure aircode \"}
+flt.arr.loc={\"locator\":\"css=div[class*=arrival]\",\"desc\":\"Flight arrival \"}
+flt.arr.loc={\"locator\":\"css=div[class*=arrival]\",\"desc\":\"Flight arrival \"}
+arr.time.loc={\"locator\":\"css=.arrival span.heading\",\"desc\":\"Flight result arrival time \"}
+arr.time.loc={\"locator\":\"css=.arrival span.heading\",\"desc\":\"Flight result arrival time \"}
+arr.city.loc={\"locator\":\"css=div[class*=arrival] span.sliceCity\",\"desc\":\"Flight result arrival city \"}
+arr.city.loc={\"locator\":\"css=div[class*=arrival] span.sliceCity\",\"desc\":\"Flight result arrival city \"}
+flt.arr.aircode.loc={\"locator\":\"css=div[class*=arrival] span[class*=airportCode]\",\"desc\":\"Flight result arrival airport code\"}
+flt.arr.aircode.loc={\"locator\":\"css=div[class*=arrival] span[class*=airportCode]\",\"desc\":\"Flight result arrival airport code\"}
+flt.info.loc={\"locator\":\"css=.info.flight\",\"desc\":\"Flight information \"}
+flt.info.loc={\"locator\":\"css=.info.flight\",\"desc\":\"Flight information \"}
+flt.info.namenum.loc={\"locator\":\"css=.info.flight ul\",\"desc\":\"Flight result name and logo information \"}
+flt.info.namenum.loc={\"locator\":\"css=.info.flight ul\",\"desc\":\"Flight result name and logo information \"}
+
+	
+#TripDetailsPageLocators	
+	
+#TripDetailsPageLocators	
+prodinfo.loc={\"locator\":\"css=.productInfo\",\"desc\":\"Product info \"}
+prodinfo.loc={\"locator\":\"css=.productInfo\",\"desc\":\"Product info \"}
+continue.btn.loc={\"locator\":\"css=input[name*=_eventId_checkout]\",\"desc\":\"Continue button \"}
+continue.btn.loc={\"locator\":\"css=input[name*=_eventId_checkout]\",\"desc\":\"Continue button \"}
+see.different.flights={\"locator\":\"css=.resultsLink\",\"desc\":\"See different flights\"}
+see.different.flights={\"locator\":\"css=.resultsLink\",\"desc\":\"See different flights\"}

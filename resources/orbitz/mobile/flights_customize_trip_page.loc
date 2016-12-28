@@ -1,0 +1,1 @@
+flight.customizetrip.page.continue.btn={"locator":"css=*[value*='Continue booking']","desc":"Continue button in Customize Trip Page"}

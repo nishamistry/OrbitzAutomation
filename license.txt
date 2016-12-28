@@ -1,0 +1,145 @@
+InfoStretch Selenium Framework End User License Agreement
+
+Please read this License Agreement carefully before proceeding. This 
+Agreement licenses SOFTWARE to you [either an individual or single 
+entity] ("LICENSEE") from InfoStretch  and contains warranty and liability disclaimers. By 
+installing, copying or otherwise using this Software, you are confirming 
+that you have read and understand this Agreement and agree to be bound 
+by the terms of this Agreement. If you do not agree with the terms of this 
+Agreement, you should not install or use this SOFTWARE.
+
+ Whereas, InfoStretch has developed and distributes a compiled and 
+binary or source code  version of Selenium Framework ("LICENSED SOFTWARE");
+
+Whereas, InfoStretch has developed certain accompanying 
+documentation regarding the LICENSED SOFTWARE 
+("DOCUMENTATION");
+
+Whereas, LICENSEE desires to be licensed to develop test automation 
+programs, or functional tests incorporating or based 
+on portions of the LICENSED SOFTWARE in order to conduct 
+functional,  end-to-end 
+tests, and regression tests of LICENSEE's information systems;
+
+Whereas, upon receiving the benefit of the LICENSED SOFTWARE the 
+LICENSEE will negotiate and pay a fee to InfoStretch or receive testing services from InfoStretch.
+
+Whereas, InfoStretch is willing to grant such licenses, rights and option 
+on the terms and conditions provided hereinafter.
+
+Now, Therefore, in consideration of the mutual covenants and promises 
+contained herein, and for other good and valuable consideration, the 
+receipt and sufficiency of which are hereby acknowledged, the parties 
+agree as follows:
+
+1. Definitions
+
+"SOFTWARE" means all of the contents of the files, disk(s), CD-
+ROM(s) or other media with which this Agreement is provided as part of 
+the "LICENSED SOFTWARE."
+
+"ORGANIZATION" is defined as the user, group, institution, and 
+enterprise and any set of users greater than the smallest number.
+
+"USE", "USED" or "USING" means to install and operate the 
+SOFTWARE in a way that provides the functionality to run 
+tests and any other function that otherwise provides 
+benefit from using the functionality of the LICENSED SOFTWARE in 
+accordance with the DOCUMENTATION.
+
+
+2. Software License
+
+2.1 As long as you comply with the terms of this End User License 
+Agreement, InfoStretch grants to LICENSEE a non-exclusive license 
+to USE the Software for the purposes described in the 
+DOCUMENTATION, as further set forth below.
+
+2.2 You may install and USE a copy of the LICENSED SOFTWARE on 
+your compatible computers and servers and operate the LICENSED 
+SOFTWARE. 
+
+2.3 Backup Copy. You may make one backup copy of the Software, 
+provided your backup copy is not installed or Used on any Computer. 
+The backup copy must include all copyright information and this license 
+that you found contained on the original. You may not transfer the rights 
+to a backup copy unless you transfer all rights in the Software as 
+provided in the Transfer section in this Agreement.
+
+2.4 Portable Computer Use. The primary user of the Computer on which 
+the Software is installed may also make a second copy for his or her 
+exclusive use on a portable Computer provided the Software on the 
+portable Computer is not being used in excess of the PERMITTED 
+NUMBER OF CVUS AND SERVICE MONITORS.
+
+2.5 Except as permitted by applicable law and this License, you may not 
+modify, reverse engineer, disassemble, decompile the LICENSED 
+SOFTWARE. 
+
+3. Termination
+
+Without prejudice to any other rights, InfoStretch may terminate this 
+Agreement if you fail to comply with the terms and conditions of this 
+Agreement. In such an event, you must destroy all copies of the 
+LICENSED SOFTWARE.
+
+4. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTIES 
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING 
+WITHOUT LIMITATION WARRANTIES THAT THE SOFTWARE IS 
+(A) FREE OF DEFECTS OR ERRORS, (B) VIRUS FREE, (C) ABLE 
+TO MEET ANY REQUIREMENTS OF YOU OR ANYONE ELSE, (D) 
+ABLE TO OPERATE ON AN UNINTERRUPTED BASIS, (E) 
+MERCHANTABLE, (F) FIT FOR A PARTICULAR PURPOSE OR (G) 
+NON-INFRINGING UNLESS SUCH WARRANTIES ARE LEGALLY 
+INCAPABLE OF EXCLUSION. InfoStretch SHALL HAVE NO 
+LIABILITY WITH RESPECT TO USE OF THE SOFTWARE.
+
+5. Limitation of Liability
+
+IN NO EVENT WILL InfoStretch, ITS EMPLOYEES, 
+DISTRIBUTORS, SUPPLIERS, DIRECTORS, NOR AGENTS SHALL 
+BE LIABLE FOR ANY LOST PROFITS OR OTHER 
+CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES IN 
+CONNECTION WITH THE SOFTWARE OR THIS AGREEMENT, 
+EVEN IF InfoStretch HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES. In no event shall 
+InfoStretch's liability in connection with the LICENSED 
+SOFTWARE, regardless of the form of action, exceed the amount paid 
+for this License to the LICENSED SOFTWARE. Some jurisdictions do 
+not allow the foregoing limitations of liability, so the foregoing 
+limitations may not apply to you.
+
+6. Export
+
+You may not download or otherwise export or re-export the LICENSED 
+SOFTWARE except in full compliance with all applicable laws and 
+regulations. By accepting this agreement you represent and warrant that 
+you: (a) understand that the LICENSED SOFTWARE is subject to export 
+controls under the EAR, (b) are not located in a prohibited destination 
+country under the EAR or U.S. sanctions regulations (currently Cuba, 
+Iran, Iraq, Libya, North Korea, Sudan, Syria, the Federal Republic of 
+Yugoslavia (including Serbia but not Kosovo or Montenegro), and 
+Taliban controlled areas of Afghanistan), (c) are not a Denied Party, 
+Specially Designated National, or other person or entity prohibited from 
+receiving exports / re-exports by U.S. law; and (d) will not export, re-
+export, or transfer the LICENSED SOFTWARE to any prohibited 
+destination entity or individual without the necessary export license(s) or 
+authorization(s) from the United States Federal Government.
+
+7. Governing Law
+
+This Agreement will be governed by and construed in accordance with 
+the laws of the State of California without regard to conflicts of law 
+provisions. Any claim arising out of or related to this Agreement must be 
+brought exclusively in a federal or state court located in Santa Clara, 
+California and you consent to the jurisdiction of such courts. If any 
+provision of this Agreement shall be invalid, the validity of the remaining 
+provisions of this Agreement shall not be affected.
+
+Copyright (c) 2011,  InfoStretch corp. All Rights Reserved
+
+
+--
+

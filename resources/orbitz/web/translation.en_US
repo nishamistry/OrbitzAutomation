@@ -1,0 +1,17 @@
+#Environment properties
+env.baseurl=http://www.orbitz.com/en/
+step.provider.pkg=com.ispl.automation.sample.orbitz.web;com.ispl.automation.sample.orbitz.common
+
+
+#Home Template Menu-Items
+hotels.value=Hotels
+flights.value=Flights
+autos.value=Cars
+
+
+#Flight Search Form
+flight.search.form.blank.from.error.msg=You have not told us where you would like to start your flight. Please enter the name of a city or an airport code and try again.
+flight.search.form.blank.to.error.msg=You have not told us where you are going. Please enter the name of a city or an airport code and try again.
+
+flight.customize.trip.page.title=Customize your trip
+flight.trip.traveler.info.page.title=Checkout: Traveler information
